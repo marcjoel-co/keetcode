@@ -1,2 +1,3 @@
-# keetcode
-My own shit using leetcode
+# Leetcode
+A documentation of leetcode and concepts i've learned
+
